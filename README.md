@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/luizaugustoliveira">
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=luizaugustoliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=luizaugustoliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 ##
