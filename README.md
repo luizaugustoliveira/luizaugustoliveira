@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 Sobre Mim
-a
+## Sobre Mim
+
 Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligência Artificial** com **interfaces web**. Especializando em sistemas RAG (Retrieval-Augmented Generation), chatbots inteligentes e aplicações web modernas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Inteligência Artificial & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,12 +27,14 @@ Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligênc
 
 ### Front-End Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
-**Expertise:** ES6+ • CSS Grid • Flexbox • Responsive Design • Webpack • Babel • ESLint
+**Expertise:** JavaScript/TypeScript • React • ES6+ • CSS Grid • Flexbox • Responsive Design • Webpack • Babel • ESLint
 
 ### Ferramentas & Práticas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,27 +45,13 @@ Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligênc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizaugustoliveira&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustoliveira&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizaugustoliveira&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Projetos Principais
+## Projetos Principais
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 [Sistema de Feedbacks Inteligente](https://github.com/luizaugustoliveira/Sistema-Feedbacks)
+### [Sistema de Feedbacks Inteligente](https://github.com/luizaugustoliveira/Sistema-Feedbacks)
 Sistema RAG avançado para análise automática de feedbacks com IA
 
 **Tech:** Gemini AI • LangChain • LangGraph • FAISS
@@ -71,7 +59,7 @@ Sistema RAG avançado para análise automática de feedbacks com IA
 </td>
 <td width="50%">
 
-### 📚 [Os Sertões RAG](https://github.com/luizaugustoliveira/Os-Sertoes-RAG)
+### [Os Sertões RAG](https://github.com/luizaugustoliveira/Os-Sertoes-RAG)
 Sistema RAG com 3 abordagens para análise literária
 
 **Tech:** OpenAI • ChromaDB • Cohere Rerank
@@ -81,7 +69,7 @@ Sistema RAG com 3 abordagens para análise literária
 <tr>
 <td width="50%">
 
-### ✈️ [Traveler](https://github.com/luizaugustoliveira/traveler)
+### [Traveler](https://github.com/luizaugustoliveira/traveler)
 Agência de viagens com assistente IA de recomendações
 
 **Tech:** JavaScript • Gemini API • CSS3
@@ -89,7 +77,7 @@ Agência de viagens com assistente IA de recomendações
 </td>
 <td width="50%">
 
-### 🦜 [Animais Nordestinos](https://github.com/luizaugustoliveira/animaisNordestinos)
+### [Animais Nordestinos](https://github.com/luizaugustoliveira/animaisNordestinos)
 App educacional interativa com arquitetura modular
 
 **Tech:** ES6+ • Webpack • Babel
@@ -99,7 +87,7 @@ App educacional interativa com arquitetura modular
 <tr>
 <td width="50%">
 
-### 🏥 [Assistente Virtual Médico](https://github.com/luizaugustoliveira/Chatbot)
+### [Assistente Virtual Médico](https://github.com/luizaugustoliveira/Chatbot)
 Chatbot para orientação de especialidades médicas
 
 **Tech:** Streamlit • OpenAI GPT-3.5
@@ -107,7 +95,7 @@ Chatbot para orientação de especialidades médicas
 </td>
 <td width="50%">
 
-### 🎮 [Game Meta Assistant](https://luizaugustoliveira.github.io/assistente-de-meta/)
+### [Game Meta Assistant](https://luizaugustoliveira.github.io/assistente-de-meta/)
 Assistente IA para estratégias de jogos retrô
 
 **Tech:** JavaScript • Gemini API • Google Search
@@ -118,7 +106,7 @@ Assistente IA para estratégias de jogos retrô
 
 ---
 
-## 💡 Áreas de Especialização
+## Áreas de Especialização
 
 ```javascript
 const expertise = {
@@ -131,7 +119,7 @@ const expertise = {
 
 ---
 
-## 📫 Vamos Conversar?
+## Vamos Conversar?
 
 <div align="center">
 
@@ -145,8 +133,6 @@ const expertise = {
 
 <div align="center">
 
-### � *"Desenvolvendo o futuro, uma linha de código por vez."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=luizaugustoliveira&color=blueviolet&style=flat-square)
+### "Desenvolvendo o futuro, uma linha de código por vez."
 
 </div>
