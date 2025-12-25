@@ -1,8 +1,5 @@
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/luizaugustoliveira?label=Followers&style=social)](https://github.com/luizaugustoliveira)
-[![GitHub stars](https://img.shields.io/github/stars/luizaugustoliveira?label=Stars&style=social)](https://github.com/luizaugustoliveira)
-
 📍 Campina Grande - PB, Brasil
 
 </div>
