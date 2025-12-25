@@ -1,16 +1,13 @@
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/luizaugustoliveira?label=Followers&style=social)](https://github.com/luizaugustoliveira)
-[![GitHub stars](https://img.shields.io/github/stars/luizaugustoliveira?label=Stars&style=social)](https://github.com/luizaugustoliveira)
-
 📍 Campina Grande - PB, Brasil
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
-a
+## Sobre Mim
+
 Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligência Artificial** com **interfaces web**. Especializando em sistemas RAG (Retrieval-Augmented Generation), chatbots inteligentes e aplicações web modernas.
 
 ---
