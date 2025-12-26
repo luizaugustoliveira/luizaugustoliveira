@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligência Artificial** com **interfaces web**. Especializando em sistemas RAG (Retrieval-Augmented Generation), chatbots inteligentes e aplicações web modernas.
+Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligência Artificial** com **interfaces web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), chatbots inteligentes e aplicações web modernas.
 
 ---
 
