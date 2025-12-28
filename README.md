@@ -16,8 +16,10 @@ Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligênc
 
 ### Inteligência Artificial & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
@@ -85,18 +87,31 @@ App educacional interativa com arquitetura modular
 <tr>
 <td width="50%">
 
+### [Customer Service BERT Fine-tuning](https://github.com/luizaugustoliveira/Customer-Service-Finetuning)
+Modelo BERT fine-tuned para classificação de atendimento ao cliente
+
+**Tech:** BERT • Transformers • PyTorch • Hugging Face
+
+</td>
+<td width="50%">
+
 ### [Assistente Virtual Médico](https://github.com/luizaugustoliveira/Chatbot)
 Chatbot para orientação de especialidades médicas
 
 **Tech:** Streamlit • OpenAI GPT-3.5
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Game Meta Assistant](https://luizaugustoliveira.github.io/assistente-de-meta/)
 Assistente IA para estratégias de jogos retrô
 
 **Tech:** JavaScript • Gemini API • Google Search
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
