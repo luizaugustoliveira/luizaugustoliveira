@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligência Artificial** com **interfaces web**. Especializando em sistemas RAG (Retrieval-Augmented Generation), chatbots inteligentes e aplicações web modernas.
+Desenvolvo soluções que combinam **Inteligência Artificial** com **interfaces web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes e aplicações web.
 
 ---
 
@@ -18,12 +18,12 @@ Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligênc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-**Frameworks & Tools:** LangChain • LangGraph • ChromaDB • FAISS • Cohere Rerank • Google Gemini • Pydantic
+**Frameworks & Tools:** LangChain • LangGraph • ChromaDB • FAISS • Cohere Rerank • Google Gemini • PyTorch • Hugging Face • Pydantic
 
 ### Front-End Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,6 +31,8 @@ Desenvolvedor que procura criar soluções inovadoras que combinam **Inteligênc
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1E5AA8?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-0066CC?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
@@ -123,16 +125,14 @@ Assistente IA para estratégias de jogos retrô
 
 ```javascript
 const expertise = {
-    ai_ml: ["RAG Systems", "Chatbots", "NLP", "LLM Integration"],
-    frontend: ["JavaScript ES6+", "Responsive Design", "CSS Grid/Flexbox"],
+    ai_ml: ["RAG Systems", "Fine-tuning", "Transformers", "Chatbots", "NLP", "LLM Integration"],
+    frontend: ["JavaScript ES6+", "TypeScript", "React", "Responsive Design", "CSS Grid", "Flexbox", "Webpack", "Babel"],
     architecture: ["Modular Design", "Clean Code", "API Integration"],
     focus: ["AI-Powered Applications", "Interactive Web Apps", "User Experience"]
 };
 ```
 
 ---
-
-## Vamos Conversar?
 
 <div align="center">
 
