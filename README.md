@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Desenvolvo soluções que combinam **Inteligência Artificial** com **interfaces web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes, sistemas multi-agent e aplicações web.
+Desenvolvo soluções que combinam **Inteligência Artificial** com **Interfaces Web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes, sistemas multi-agent e aplicações web.
 
 ---
 
@@ -108,7 +108,7 @@ Chatbot para orientação de especialidades médicas
 <td width="50%">
 
 ### [Game Meta Assistant](https://luizaugustoliveira.github.io/assistente-de-meta/)
-Assistente IA para estratégias de jogos retrô
+Assistente IA para estratégias de jogos
 
 **Tech:** JavaScript • Gemini API • Google Search
 
