@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Desenvolvo soluções que combinam **Inteligência Artificial** com **interfaces web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes e aplicações web.
+Desenvolvo soluções que combinam **Inteligência Artificial** com **interfaces web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes, sistemas multi-agent e aplicações web.
 
 ---
 
@@ -23,7 +23,7 @@ Desenvolvo soluções que combinam **Inteligência Artificial** com **interfaces
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-**Frameworks & Tools:** LangChain • LangGraph • ChromaDB • FAISS • Cohere Rerank • Google Gemini • PyTorch • Hugging Face • Pydantic
+**Frameworks & Tools:** LangChain • LangGraph • CrewAI • ChromaDB • FAISS • Cohere Rerank • Google Gemini • PyTorch • Hugging Face • Pydantic • DALL-E
 
 ### Front-End Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -115,6 +115,11 @@ Assistente IA para estratégias de jogos retrô
 </td>
 <td width="50%">
 
+### [StudioAgent-Cinema](https://github.com/luizaugustoliveira/StudioAgent-Cinema)
+Sistema multi-agent IA para geração automática de roteiros e thumbnails de vídeos de cinema
+
+**Tech:** CrewAI • OpenAI • DALL-E • Python
+
 </td>
 </tr>
 </table>
@@ -125,10 +130,10 @@ Assistente IA para estratégias de jogos retrô
 
 ```javascript
 const expertise = {
-    ai_ml: ["RAG Systems", "Fine-tuning", "Transformers", "Chatbots", "NLP", "LLM Integration"],
+    ai_ml: ["RAG Systems", "Fine-tuning", "Transformers", "Chatbots", "NLP", "LLM Integration", "Multi-Agent Systems", "AI Orchestration"],
     frontend: ["JavaScript ES6+", "TypeScript", "React", "Responsive Design", "CSS Grid", "Flexbox", "Webpack", "Babel"],
-    architecture: ["Modular Design", "Clean Code", "API Integration"],
-    focus: ["AI-Powered Applications", "Interactive Web Apps", "User Experience"]
+    architecture: ["Modular Design", "Clean Code", "API Integration", "Agent Coordination"],
+    focus: ["AI-Powered Applications", "Interactive Web Apps", "User Experience", "Automated Content Generation"]
 };
 ```
 
