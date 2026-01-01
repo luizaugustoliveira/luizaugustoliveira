@@ -1,20 +1,14 @@
 <div align="center">
 
-📍 Campina Grande - PB, Brasil
+📍 Campina Grande - PB, Brazil
 
 </div>
 
 ---
 
-## Sobre Mim
+## Technologies & Tools
 
-Desenvolvo soluções que combinam **Inteligência Artificial** com **Interfaces Web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes, sistemas multi-agent e aplicações web.
-
----
-
-## Tecnologias & Ferramentas
-
-### Inteligência Artificial & Machine Learning
+### Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -38,23 +32,23 @@ Desenvolvo soluções que combinam **Inteligência Artificial** com **Interfaces
 
 **Expertise:** JavaScript/TypeScript • React • ES6+ • CSS Grid • Flexbox • Responsive Design • Webpack • Babel • ESLint
 
-### Ferramentas & Práticas
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Metodologias:** Mobile First • BEM • Accessibility (ARIA) • Clean Code • Modular Architecture
+**Methodologies:** Mobile First • BEM • Accessibility (ARIA) • Clean Code • Modular Architecture
 
 ---
 
-## Projetos Principais
+## Key Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### [Sistema de Feedbacks Inteligente](https://github.com/luizaugustoliveira/Sistema-Feedbacks)
-Sistema RAG avançado para análise automática de feedbacks com IA
+### [Intelligent Feedback System](https://github.com/luizaugustoliveira/Sistema-Feedbacks)
+Advanced RAG system for automatic AI-powered feedback analysis
 
 **Tech:** Gemini AI • LangChain • LangGraph • FAISS
 
@@ -62,7 +56,7 @@ Sistema RAG avançado para análise automática de feedbacks com IA
 <td width="50%">
 
 ### [Os Sertões RAG](https://github.com/luizaugustoliveira/Os-Sertoes-RAG)
-Sistema RAG com 3 abordagens para análise literária
+RAG system with 3 approaches for literary analysis
 
 **Tech:** OpenAI • ChromaDB • Cohere Rerank
 
@@ -72,15 +66,15 @@ Sistema RAG com 3 abordagens para análise literária
 <td width="50%">
 
 ### [Traveler](https://github.com/luizaugustoliveira/traveler)
-Agência de viagens com assistente IA de recomendações
+Travel agency with AI recommendation assistant
 
 **Tech:** JavaScript • Gemini API • CSS3
 
 </td>
 <td width="50%">
 
-### [Animais Nordestinos](https://github.com/luizaugustoliveira/animaisNordestinos)
-App educacional interativa com arquitetura modular
+### [Northeastern Animals](https://github.com/luizaugustoliveira/animaisNordestinos)
+Interactive educational app with modular architecture
 
 **Tech:** ES6+ • Webpack • Babel
 
@@ -90,15 +84,15 @@ App educacional interativa com arquitetura modular
 <td width="50%">
 
 ### [Customer Service BERT Fine-tuning](https://github.com/luizaugustoliveira/Customer-Service-Finetuning)
-Modelo BERT fine-tuned para classificação de atendimento ao cliente
+Fine-tuned BERT model for customer service classification
 
 **Tech:** BERT • Transformers • PyTorch • Hugging Face
 
 </td>
 <td width="50%">
 
-### [Assistente Virtual Médico](https://github.com/luizaugustoliveira/Chatbot)
-Chatbot para orientação de especialidades médicas
+### [Medical Virtual Assistant](https://github.com/luizaugustoliveira/Chatbot)
+Chatbot for medical specialty guidance
 
 **Tech:** Streamlit • OpenAI GPT-3.5
 
@@ -108,7 +102,7 @@ Chatbot para orientação de especialidades médicas
 <td width="50%">
 
 ### [Game Meta Assistant](https://luizaugustoliveira.github.io/assistente-de-meta/)
-Assistente IA para estratégias de jogos
+AI assistant for game strategies
 
 **Tech:** JavaScript • Gemini API • Google Search
 
@@ -116,7 +110,7 @@ Assistente IA para estratégias de jogos
 <td width="50%">
 
 ### [StudioAgent-Cinema](https://github.com/luizaugustoliveira/StudioAgent-Cinema)
-Sistema multi-agent IA para geração automática de roteiros e thumbnails de vídeos de cinema
+Multi-agent AI system for automatic generation of cinema video scripts and thumbnails
 
 **Tech:** CrewAI • OpenAI • DALL-E • Python
 
@@ -126,7 +120,7 @@ Sistema multi-agent IA para geração automática de roteiros e thumbnails de v�
 
 ---
 
-## Áreas de Especialização
+## Areas of Expertise
 
 ```javascript
 const expertise = {
@@ -151,6 +145,6 @@ const expertise = {
 
 <div align="center">
 
-### "Desenvolvendo o futuro, uma linha de código por vez."
+### "Building the future, one line of code at a time."
 
 </div>
