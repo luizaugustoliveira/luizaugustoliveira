@@ -6,12 +6,6 @@
 
 ---
 
-## Sobre Mim
-
-Desenvolvo soluções que combinam **Inteligência Artificial** com **Interfaces Web**. Me especializando em sistemas RAG (Retrieval-Augmented Generation), fine-tuning de modelos, chatbots inteligentes, sistemas multi-agent e aplicações web.
-
----
-
 ## Tecnologias & Ferramentas
 
 ### Inteligência Artificial & Machine Learning
